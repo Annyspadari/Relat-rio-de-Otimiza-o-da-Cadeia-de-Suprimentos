@@ -35,5 +35,4 @@
 
 **Conclusão**
 
-A estratégia proposta permitirá à empresa atender ao aumento de demanda, mantendo os custos de transporte relativamente baixos.Relatório de Otimização da Cadeia de Suprimentos
-Alocação das Demandas
+A estratégia proposta permitirá à empresa atender ao aumento de demanda, mantendo os custos de transporte relativamente baixos.
